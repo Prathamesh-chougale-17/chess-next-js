@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+#app {
+  display: grid;
+  place-content: center;
+}
