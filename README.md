@@ -1,4 +1,4 @@
-#Hello Everyone, Here I have build the Chess with Next js
+## Hello Everyone, Here I have build the Chess with Next js
 You Can Contribute to this project by adding some new features or fixing some bugs.
 
 To run this project on your local machine, follow the steps below:
