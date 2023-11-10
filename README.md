@@ -7,14 +7,14 @@ To run this project on your local machine, follow the steps below:
 ```terminal
 git clone 
 ```
-3. Run 
+2. Run 
 ```terminal
 npm install
 ```
-4. Run 
+3. Run 
 ```
 npm run dev
 ```
-5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-After making some changes, you can create a pull request and I will merge it after reviewing it.
+After reviewing and making some changes, you can create a pull request and I will merge it after reviewing it.
